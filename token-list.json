@@ -1,0 +1,32 @@
+{
+  "name": "Solid",
+  "logoURI": "https://raw.githubusercontent.com/SolidDefi/solid-token-list/master/Solid-Logo-no-BG2.svg",
+  "keywords": [
+    "solid",
+    "defi"
+  ],
+  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 3,
+      "address": "0xB16bD36F05a90F639b847E3b41d51C1c2E57d76e",
+      "name": "regular-6",
+      "symbol": "regular-6",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SolidDefi/solid-token-list/master/Solid-Logo-no-BG2.svg"
+    },
+	{
+      "chainId": 3,
+      "address": "0xfF2ad2c9d0F2E4d6b96e80ea282dd388f1856009",
+      "name": "regular-9",
+      "symbol": "regular-9",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SolidDefi/solid-token-list/master/Solid-Logo-no-BG2.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
